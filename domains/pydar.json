@@ -1,1 +1,10 @@
-
+{
+  "description": "A website related to Pydar.",
+  "owner": {
+    "username": "Pydar786",
+    "email": "mtkh1389@gmail.com"
+  },
+  "record": {
+    "CNAME": "is-a-dev-docs.pages.dev"
+  },
+}
